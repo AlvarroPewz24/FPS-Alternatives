@@ -1,5 +1,5 @@
 # FPS Alternatives
-(UNFINISHED) an FPS alternatives to increase game's FPS
+(BETA) an FPS alternatives to increase game's FPS
 
 If the game lagging so much, you can use this *FPS Alternatives!*
 It can Increases your FPS if the game lagging so much
