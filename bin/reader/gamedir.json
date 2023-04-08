@@ -1,0 +1,5 @@
+action1 : $sudo change ;non-haxe; to ;haxe;
+          $sudo update ;3dmodels; to ;pngs;
+action2 : running apps = $app-name = ;checkdirectory;
+          delete setup.exe
+         
