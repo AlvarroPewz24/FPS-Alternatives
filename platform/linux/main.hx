@@ -7,8 +7,8 @@ run: "apis/FPSLoader.hx"
 
 #if 64bit
 run: "apis/FPSLoader.hx"
-run_command: $sudo update $selected_app delete fps.xml
-             $sudo update $selected_app create $fps-name.xml
+run_command: $sudo update $selected-app delete fps.xml
+             $sudo update $selected-app create $fps-name.xml
 #end
 
 #if 32bit
