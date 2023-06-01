@@ -1,7 +1,7 @@
 package;
 
 import haxe.fpsloader;
-import haxe.gamefps;
+import game.fps;
 
   run: "apis/FPSLoader.hx"
 
