@@ -1,16 +1,16 @@
 package;
 
 import haxe.fpsloader;
-import haxe.gamefps;
+import game.fps;
 
 run: "apis/FPSLoader.hx"
 
-#if 64-bit
+#if 64bit
 run: "apis/FPSLoader.hx"
-run-command: $sudo update $game_id delete fps.xml
-             $sudo update $game_id create $fps-name.xml
+run_command: $sudo update $selected_app delete fps.xml
+             $sudo update $selected_app create $fps-name.xml
 #end
 
-#if 32-bit
-show-message: "Sorry we do not support linux 32bits, maybe supported in the future?"
+#if 32bit
+show_message: "Sorry, we do not support linux 32bits, maybe supported in the future?"
 #end
