@@ -21,6 +21,8 @@ There are 12 fps alts you can use
 
 NOTICE:
 - FPS alternatives can be used if the game's fps is 20-, if you use fps alternatives on 21+ fps, it'll crash
+- Doesn't work at Windows 8 and Linux 32bits
+- *This Version is beta meaning it will have some bugs
 
 ### Credits
 - [AlvarroPewz](https://youtube.com/watch/dQw4w9WgXcQ) - Main Coder
