@@ -1,13 +1,13 @@
 package;
 
 import haxe.fpsloader;
-import haxe.gamefps;
+import game.fps;
 
 run: "apis/FPSLoader.hx"
-run-command: $check-running-apps
+run_command: $check-selected-app
              $check-appdirectory
              $delete fps.xml
              $create $fps-name.xml
 
-recreate $fps-name.xml if "(reopen)"
-recreate $fps-name.xml if "(close)"
+recreate $fps-name.xml if "(opened)"
+delete $fps-name.xml if "(closed)"
