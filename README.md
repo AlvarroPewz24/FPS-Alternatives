@@ -5,7 +5,7 @@ If the game lagging so much, you can use *FPS Alternatives!*
 It can Increases your FPS if your game lags
 
 There are 12 fps alts you can use
-(these fps are from people that work here, for now there are 12, if it's reached stable release, you can upload more fps alts)
+(these fps are from people that work here, for now there are 12, if it's reached stable release, you can upload fps)
 - [Alberto's FPS](https://youtube.com/watch/dQw4w9WgXcQ)
 - [Xtreme FPS](https://youtube.com/watch/dQw4w9WgXcQ)
 - [Leapord FPS](https://youtube.com/watch/dQw4w9WgXcQ)
