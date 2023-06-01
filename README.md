@@ -1,10 +1,10 @@
 # FPS Alternatives
-(BETA) an FPS alternatives to increase game's FPS
+(BETA) a FPS alternatives to increase game's FPS
 
-If the game lagging so much, you can use this *FPS Alternatives!*
-It can Increases your FPS if the game lagging so much
+If the game lagging so much, you can use *FPS Alternatives!*
+It can Increases your FPS if your game lags
 
-There are 12 FPS type you can use
+There are 12 fps alts you can use
 - [Alberto's FPS](https://youtube.com/watch/dQw4w9WgXcQ)
 - [Xtreme FPS](https://youtube.com/watch/dQw4w9WgXcQ)
 - [Leapord FPS](https://youtube.com/watch/dQw4w9WgXcQ)
@@ -19,9 +19,9 @@ There are 12 FPS type you can use
 - [TripleX FPS](https://youtube.com/watch/dQw4w9WgXcQ)
 
 NOTICE:
-- FPS alternatives can be used if the game's fps is 20 below, if you use fps alternatives on 21+ fps, it may crashes
+- FPS alternatives can be used if the game's fps is 20-, if you use fps alternatives on 21+ fps, it'll crash
 
-### Credits/shoutouts
+### Credits
 - [AlvarroPewz](https://youtube.com/watch/dQw4w9WgXcQ) - Main Coder
 - [JackRay](https://youtube.com/watch/dQw4w9WgXcQ) - Second Coder
 - [Alberto](https://youtube.com/watch/dQw4w9WgXcQ) - Alberto's FPS Creator
