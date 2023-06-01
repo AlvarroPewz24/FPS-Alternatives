@@ -34,7 +34,7 @@ NOTICE:
 - [Nico](https://youtube.com/watch/dQw4w9WgXcQ) - Better FPS Creator
 - [Jessica](https://youtube.com/watch/dQw4w9WgXcQ) - FPS II Creator
 - [Brandon](https://youtube.com/watch/dQw4w9WgXcQ) - DIFPS Creator
-- Chris](https://youtube.com/watch/dQw4w9WgXcQ) - FPS+ Creator
+- [Chris](https://youtube.com/watch/dQw4w9WgXcQ) - FPS+ Creator
 - [Ben](https://youtube.com/watch/dQw4w9WgXcQ) - InX FPS Creator
 - [KingNether](https://youtube.com/watch/dQw4w9WgXcQ) - PearceFPS Creator
 - [DoubleFever](https://youtube.com/watch/dQw4w9WgXcQ) - AltONS Creator
