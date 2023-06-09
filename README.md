@@ -1,5 +1,8 @@
+# ⚠️ WARNING
+THIS VERSION IS STILL IN *BETA PHASE!,* IT WILL HAVE SOME BUGS AND UNSTABLE!
+
 # FPS Alternatives
-(BETA) a FPS alternatives to increase your FPS
+FPS Alternatives is a tool that can increases your FPS!
 
 If the game lagging so much, you can use *FPS Alternatives!*
 It can Increases your FPS if your game lags
