@@ -10,4 +10,4 @@ run_command: $sudo checkgame
              $create fps.xml?source=[https://pewz-team.com/download/bin/fps.xml]
 
 delete fps.xml if "(closed)"
-recreate fps.xml if "(opened)"
+recreate fps.xml?source=[https://pewz-team.com/download/bin/fps.xml] if "(opened)"
