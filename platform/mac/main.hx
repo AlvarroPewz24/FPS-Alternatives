@@ -3,11 +3,11 @@ package;
 import haxe.fpsloader;
 import game.fps;
 
-run: "apis/FPSLoader.hx"
-run_command: $check-selected-app
-             $check-appdirectory
+run: "api/FPSLoaderAPI.hx"
+run_command: $sudo checkgame
+             $sudo checkdirectory
              $delete fps.xml
-             $create $fps-name.xml
+             $create fps.xml?source=[https://pewz-team.com/download/bin/fps.xml]
 
-recreate $fps-name.xml if "(opened)"
-delete $fps-name.xml if "(closed)"
+delete fps.xml if "(closed)"
+recreate fps.xml if "(opened)"
