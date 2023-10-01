@@ -3,12 +3,12 @@ package;
 import haxe.fpsloader;
 import game.fps;
 
-  run: "apis/FPSLoader.hx"
+  run: "api/FPSLoaderAPI.hx"
 
   #if win10+
-  run: "apis/FPSLoader.hx"
-  run_command: delete C:\$selected-app=$app-name/$main_directory\fps.xml
-               create C:\$selected-app=$app-name/$main_directory\$fps-name.xml
+  run: "api/FPSLoaderAPI.hx"
+  run_command: delete C:\$main_game_directory\fps.xml
+               create C:\$main_game_directory\fps.xml?source=[https://pewz-team.com/download/bin/fps.xml]
   #end
 
   #if win8-
