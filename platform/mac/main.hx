@@ -1,7 +1,7 @@
 package;
 
-import haxe.fpsloader;
-import game.fps;
+import pewzteam.fpsloader;
+import <game>.fps;
 
 run: "api/FPSLoaderAPI.hx"
 run_command: $sudo checkgame
