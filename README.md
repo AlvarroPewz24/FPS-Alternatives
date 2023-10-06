@@ -5,7 +5,7 @@ THIS VERSION IS STILL IN *ALPHA!* IT WILL HAVE SOME BUGS AND IT IS UNSTABLE!
 FPS Alternatives is a tool that can increases your FPS!
 
 If the game lagging without any reason, you can use *FPS Alternatives!*
-It can Increases your FPS if your game lags by editing the v-sync.json on your computer.
+It can Increases your FPS if your game lags by editing the fps.json on the game you're playing.
 
 Currently, these codes are not stable yet. you can submit pull request to fix the code.
 
