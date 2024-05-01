@@ -1,4 +1,6 @@
-command"haxeport" : $sudo port ;$game-engine; to ;haxe;
-                    $sudo change ;3d-models; to ;png;
-command"finddirectory" : $sudo check_running_apps, $app-name, ;checkdirectory;
-                         $sudo close setup.exe
+{
+command"port" : <change ;$game-fps-engine; = ;fpsalts;>
+                <change ;$file=fps.json; = ;fpsalts;>
+command"finddirectory" : <<checkrunningapps> ;$app-name; ;checkdirectory;
+                         close porter.exe>
+}
