@@ -1,0 +1,8 @@
+<run: "api/FPSLoaderAPI.json">
+
+#64bit
+command: $sudo update $game delete fps.json
+         $sudo update $game create fps.json?source=https://pewz-team.com/files/bin/fps.xml
+
+#32bit
+message: "Sorry, we do not support 32bits, We're currently only supports 64bits"
