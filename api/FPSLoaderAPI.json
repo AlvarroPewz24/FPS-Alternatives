@@ -1,0 +1,6 @@
+class FPSLoader
+{
+	API:String = "85075:WqA67t";
+	EncKey:String = "6A9UD0DYW1";
+	SESSION:String = null;
+}
