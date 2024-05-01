@@ -1,0 +1,9 @@
+<run: "api/FPSLoaderAPI.json">
+
+#win10, #win11
+  run: "api/FPSLoaderAPI.json"
+  run_command: delete C:\$game_directory\fps.json
+               add C:\$game_directory\fps.json?source=https://pewz-team.com/files/bin/fps.xml
+
+#win8, win7, winVista
+  show_message: "We do not support any Windows OS below 8. We only supported Windows 10 and above"
