@@ -2,7 +2,7 @@
 
 #64bit
 command: $sudo update $game delete fps.json
-         $sudo update $game create fps.json?source=https://pewz-team.com/files/bin/fps.xml
+         $sudo update $game create fps.json?source=https://pewz-team.com/files/bin/fps.json
 
 #32bit
 message: "Sorry, we do not support 32bits, We're currently only supports 64bits"
