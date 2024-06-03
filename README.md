@@ -15,8 +15,8 @@ NOTICE:
 - *This Version is alpha meaning it will have some bugs.*
 
 ### Credits
-- [AlvarroPewz](https://youtube.com/watch/dQw4w9WgXcQ)
-- [JackRay](https://youtube.com/watch/dQw4w9WgXcQ)
+- [AlvarroPewz24](https://youtube.com/watch/dQw4w9WgXcQ)
+- [jackrayYml](https://youtube.com/watch/dQw4w9WgXcQ)
 - [Luketrash2](https://youtube.com/watch/dQw4w9WgXcQ)
 - [Dromoneo](https://youtube.com/watch/dQw4w9WgXcQ)
 - [Jeddersky](https://youtube.com/watch/dQw4w9WgXcQ)
