@@ -3,7 +3,7 @@ THIS VERSION IS STILL IN *ALPHA,* MEANING IT WILL HAVE SOME BUGS AND IT IS UNSTA
 
 ![FPS Alternatives logo](bin/20240617_165636.png)
 
-FPS Alternatives is a tool that can increase fps by changing the FPS engine.
+FPS Alternatives is a tool that can increase FPS by changing the FPS engine.
 
 [Download](http://paste.ubuntu.com/108037)
 
