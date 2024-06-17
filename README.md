@@ -8,7 +8,7 @@ FPS Alternatives is a tool that can increase FPS by changing the FPS engine.
 [Download here.](http://paste.ubuntu.com/108037)
 
 If the game is lagging randomly, you can use *FPS Alternatives!*
-It can Increases your FPS if your game is lagging by changing the fps' engine on the game you're playing.
+It can Increases your FPS if your game is lagging by changing the FPS' engine on the game you're playing.
 
 Currently, these codes are not stable yet. you can submit pull request to fix the code.
 
