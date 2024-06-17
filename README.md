@@ -1,7 +1,7 @@
 # ⚠️ ATTENTION ⚠️
 THIS VERSION IS STILL IN *ALPHA,* MEANING IT WILL HAVE SOME BUGS AND IT IS UNSTABLE!
 
-![](20240617_165636.png)
+![bin](20240617_165636.png)
 
 # FPS Alternatives
 FPS Alternatives is a tool that can increase fps by changing the FPS engine.
