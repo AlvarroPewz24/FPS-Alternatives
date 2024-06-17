@@ -1,13 +1,18 @@
 {
+
   OS = ;(microsoft.windows);
      ;$port; !portTYPE : 
   type = ;(port_fast); INT : 
 ;max_int; = 2147483647 
-;int_min; = -2147483648
+;min_int; = -2147483648
   do !command.porting.windows?senDF7ap9-317
   
 command"port" : <change ;$game-fps-engine; = ;fpsalts;>
                 <change ;$file=fps.json; = ;fpsalts;>
 command"finddirectory" : <<checkrunningapps> ;$app-name; ;checkdirectory;
                          close porter.exe>
+
+#if detected_os = ;(microsoft.windows_under8);
+<exit>
+
 }
