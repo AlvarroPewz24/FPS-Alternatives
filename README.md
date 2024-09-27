@@ -19,8 +19,8 @@ Currently, these codes are not stable yet. you can submit pull request to fix th
 
 NOTICE:
 - FPS alternatives can be used if your fps is below 20, if you use fps alternatives if your game fps' is above 21 fps, it will crash.
-- Doesn't work at Windows 8 and Linux 32bits.
-- *This Version is in alpha meaning it will have some bugs.*
+- Doesn't work on Windows 8 and Linux 32bits.
+- *This version is in alpha meaning it will have some bugs.*
 
 ### Credits
 - AlvarroPewz24 - Main Coder
