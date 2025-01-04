@@ -7,18 +7,18 @@ FPS Alternatives is a tool that can increase FPS by changing the FPS engine.
 
 [Download here.](http://paste.ubuntu.com/108037)
 
-If the game is lagging randomly, you can use *FPS Alternatives!*
-It can Increases your FPS if your game is lagging by changing the FPS' engine on the game you're playing.
+If your game lags randomly, you can use *FPS Alternatives!*
+It can Increases your FPS if your game lags by changing the FPS engine on the game you're playing.
 
-Currently, these codes are not stable yet. you can submit pull request to fix the code.
+Currently, these codes are not stable yet. you can submit a pull request to fix some codes.
 
 ### All FPS versions
-- Triplex - Triples your FPS! ($2.99)
-- Doublex - Doubles your FPS! ($1.99)
+- Triox - Triples your FPS! ($2.99)
+- Biox - Doubles your FPS! ($1.99)
 - Framprove - Improves your FPS! (Free)
 
 NOTICE:
-- FPS alternatives can be used if your fps is below 20, if you use fps alternatives if your game fps' is above 21 fps, it will crash.
+- FPS alternatives can be used if your fps is below 20, if you use FPS alternatives if your game FPS is above 21 fps, it will crash.
 - Doesn't work on Windows 8 and Linux 32bits.
 - *This version is in alpha meaning it will have some bugs.*
 
